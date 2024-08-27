@@ -5,6 +5,12 @@ thread_local! {
 }
 
 
+
+#[update]
+fn add_project(){
+    
+}
+
 #[update]
 fn vote(){
 
